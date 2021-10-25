@@ -1,0 +1,6 @@
+Modelo\Conexion.class
+Modelo\GestorJuego.class
+Modelo\Respuesta.class
+Vista\Inicio.class
+Controlador\ControladorJuego.class
+Modelo\Pregunta.class
